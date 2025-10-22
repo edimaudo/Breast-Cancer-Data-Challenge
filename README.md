@@ -3,7 +3,7 @@
 ## Background 
 Breast cancer is one of the most common cancers affecting women worldwide. Early detection through screening and diagnostic imaging (e.g., mammograms, biopsies) significantly improves treatment outcomes. Data-driven models can help classify tumors as malignant (cancerous) or benign (non-cancerous) based on characteristics derived from cell nuclei in digital images.
 
-The solution is in an .ipynb file [Gut Health Classification notebook](https://github.com/edimaudo/Gut-Microbe-Disease-Classification/blob/main/Gut_Health_Classification.ipynb).
+The solution is in an .ipynb file [Breast Cancer Notebooks](https://github.com/edimaudo/Gut-Microbe-Disease-Classification/blob/main/Gut_Health_Classification.ipynb).
 
 ## How to run the file
 Running a Jupyter Notebook (.ipynb file) can be achieved through several methods, primarily using Jupyter Notebook itself, cloud-based services like Google Colab, or integrated development environments (IDEs) like VS Code.
